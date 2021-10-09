@@ -1,8 +1,8 @@
 # Hey! I'm Ethan Nelson
-[![](https://img.shields.io/badge/-@einelson-%23181717?style=flat-square&logo=github)](https://github.com/einelson)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:einelson8i@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:einelson8i@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-nelson/)
 [![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://einelson.github.io/)
+[![](https://img.shields.io/badge/-@einelson-%23181717?style=flat-square&logo=github)](https://github.com/einelson)
 
 **Who am I?**
 * Computer science degree
@@ -11,9 +11,11 @@
 * Machine learning: Tensorflow, sklearn
 
 
-## What I use
+## Tech I use
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -22,6 +24,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-GTX1700-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
 ## Stats
