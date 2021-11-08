@@ -5,9 +5,9 @@
 
 **Who am I?**
 * Computer science degree
-* Aspiring PhD
 * Data viz
 * Machine learning: Tensorflow, sklearn
+* Creative, a problem solver and always learning!
 
 
 ## Tech I use
