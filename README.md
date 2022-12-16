@@ -4,9 +4,8 @@
 [![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://einelson.github.io/)
 
 **Who am I?**
-* Computer science degree
-* Data viz
-* Machine learning: Tensorflow, sklearn
+* Computer science degree- current Georgia Tech student
+* Machine learning: Tensorflow, sklearn, opencv, flask
 * Creative, a problem solver and always learning!
 
 
