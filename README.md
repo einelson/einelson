@@ -27,6 +27,4 @@
 
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=einelson&show_icons=true&theme=dracula)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=einelson&theme=dracula)
